@@ -1,6 +1,6 @@
 expname = mn_blender_materials_8views_ctr
-datadir = /group_storages/ManifoldNeRF/data/nerf_synthetic/materials
-basedir = /group_storages/ManifoldNeRF/logs
+datadir =　[PATH]/ManifoldNeRF_BMVC2023/data/nerf_synthetic/materials
+basedir =  [PATH]/ManifoldNeRF_BMVC2023/logs
 dataset_type = blender
 no_batching = True
 use_viewdirs = True

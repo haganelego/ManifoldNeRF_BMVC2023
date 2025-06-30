@@ -1,6 +1,6 @@
 expname = mn_blender_chair_8views_ctr
-datadir = /home/acd13474uu/MIGRATED_FROM_ABCI2.0/usr/research/github/ManifoldNeRF_BMVC2023/data/nerf_synthetic/chair
-basedir = /home/acd13474uu/MIGRATED_FROM_ABCI2.0/usr/research/github/ManifoldNeRF_BMVC2023/logs
+datadir =　[PATH]/ManifoldNeRF_BMVC2023/data/nerf_synthetic/chair
+basedir =  [PATH]/ManifoldNeRF_BMVC2023/logs
 dataset_type = blender
 no_batching = True
 use_viewdirs = True
